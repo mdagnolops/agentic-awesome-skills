@@ -17753,6 +17753,25 @@
       "runtime_files": []
     },
     {
+      "id": "email-marketing-bible",
+      "path": "skills/email-marketing-bible",
+      "targets": {
+        "codex": "supported",
+        "claude": "supported"
+      },
+      "setup": {
+        "type": "none",
+        "summary": "",
+        "docs": null
+      },
+      "reasons": [],
+      "blocked_reasons": {
+        "codex": [],
+        "claude": []
+      },
+      "runtime_files": []
+    },
+    {
       "id": "email-security",
       "path": "skills/email-security",
       "targets": {
@@ -28009,6 +28028,25 @@
         "codex": [
           "target_specific_home_path"
         ],
+        "claude": []
+      },
+      "runtime_files": []
+    },
+    {
+      "id": "linkdigest-social-link-reader",
+      "path": "skills/linkdigest-social-link-reader",
+      "targets": {
+        "codex": "supported",
+        "claude": "supported"
+      },
+      "setup": {
+        "type": "none",
+        "summary": "",
+        "docs": null
+      },
+      "reasons": [],
+      "blocked_reasons": {
+        "codex": [],
         "claude": []
       },
       "runtime_files": []
@@ -51001,10 +51039,10 @@
     }
   ],
   "summary": {
-    "total_skills": 2658,
+    "total_skills": 2660,
     "supported": {
-      "codex": 2571,
-      "claude": 2596
+      "codex": 2573,
+      "claude": 2598
     },
     "blocked": {
       "codex": 87,
