@@ -202,6 +202,9 @@ Host integrations that load individual `SKILL.md` files can use [`skills_index.j
 
 ## Credits & Sources
 
+- [1human agent integration](https://github.com/mdagnolops/1human-reels): motion-reference discovery and private preferences shared by a human and their creative agent (MIT).
+
+
 We stand on the shoulders of giants.
 
 👉 **[View the Full Attribution Ledger](docs/sources/sources.md)**
