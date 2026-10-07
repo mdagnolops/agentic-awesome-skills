@@ -803,9 +803,3 @@ no fetch and no installer handoff. Root validation, references, documentation
 security, warning budget and full repository tests pass. Codex CLI installation passed with a temporary isolated configuration; native
 UI rendering remains unverified. Generated outputs stay excluded from
 this source PR and belong to protected canonical synchronization.
-
-# Contribution: 1human motion references
-
-Adds the [agent-reels skill](skills/agent-reels/SKILL.md), adapted from the MIT [1human integration](https://github.com/mdagnolops/1human-reels). Agents consult a shared human-agent library and credited motion sources before relevant creative tasks. Optional social/publication mutations require prior owner permission and are labeled critical. The owned hosted server is not included.
-
-Source-only contribution: generated registries and plugin mirrors are not staged. Local structural, reference, security and test results are recorded in the pull request. Internal API tests establish behavior, not independent usage or demand. Maintainer review is still required; no upstream endorsement is claimed.
