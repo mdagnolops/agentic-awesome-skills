@@ -1,10 +1,3 @@
-# 1human owner onboarding refresh — 2026-10-09
-
-- Refreshed the existing `agent-reels` canonical skill against the current public 1human protocol: discovery invites the existing human only when useful for their current task; registration and workspace installation need explicit approval.
-- Documented paused registration, human activation, reserved names, private first-visit password setup and separate upload scope. Hosted recipe access requires the agent credential; previews remain public.
-- Preserved MIT provenance, existing critical risk metadata, source attribution and real-task examples. No runtime, account, billing, generated registry or plugin-mirror changes are submitted.
-- Local checks and their limitations are reported in the PR. Automated semantic review or exact-head maintainer attestation remains a separate merge requirement; this contribution does not claim independent users or reproduction.
-
 # Top skills contributors - 2026-09-27
 
 - Added a second Top Contributors ranking for canonical skills introduced, alongside the existing commit ranking.
